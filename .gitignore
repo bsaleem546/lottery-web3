@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-/smart-contract/node_modules
+/smc/node_modules
 
 # testing
 /coverage
