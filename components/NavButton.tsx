@@ -3,7 +3,7 @@ import React from "react";
 interface Props {
     title: string;
     isActive? : Boolean;
-    onClick? : void;
+    onClick? : React.MouseEventHandler<HTMLElement>;
 }
 
 function NavButton({ title, isActive, onClick }: Props) {
