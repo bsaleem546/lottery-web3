@@ -10,21 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56a7d42b-81a8-4f9f-a5a6-945c49c6ca60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ButtonReact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ButtonStyled.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/artifacts/Lottery.sol/Lottery.json" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/artifacts/Lottery.sol/Lottery.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="56a7d42b-81a8-4f9f-a5a6-945c49c6ca60" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +30,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="D:\New folder\lottery\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\New folder\lottery" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,7 +53,7 @@
       <workItem from="1663051551101" duration="677000" />
       <workItem from="1663052261559" duration="1731000" />
       <workItem from="1663054057465" duration="16592000" />
-      <workItem from="1663134199617" duration="10282000" />
+      <workItem from="1663134199617" duration="10427000" />
     </task>
     <servers />
   </component>
@@ -81,10 +73,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1663055209350">
+    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1663155009642">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1663055209350" />
+    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1663155009642" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1663056972076">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
